@@ -1,0 +1,4 @@
+"","KmO2_Rh","alphaVmaxSx","EaVmaxSx","KMSx","alphaVmaxCH4prod","EaVmaxCH4prod","KMSx_CH4prod","alphaVmaxCH4ox","EaVmaxCH4ox","KMCH4ox","KmO2_CH4ox","kl_CH4prod","alphaVmaxN2Oprod_nitrif","EaVmaxN2Oprod_nitrif","KM_N2Oprod_nitrif","KMO2_N2Oprod_nitrif","alphaVmaxN2Oprod_denitrif","EaVmaxN2Oprod_denitrif","KM_N2Oprod_denitrif","alphaVmaxN2Ored","EaVmaxN2Ored","KMN2Ored","kl_N2Oprod","kl_N2Ored","KMSx_denitrif"
+"1",2.45,2.3e+09,7.2,10,30000,0.3,3.5,0.007,10,1e-04,0.043,0.03,10,25,2.22,14.33,10,2.6,2.22,0.0015,10,1e-06,1.43,0.72,10
+"2",24500,2.3e+13,7200,1e+05,3e+08,3000,35000,700,50,1,4300,300,10000,200,222.22,1433.3,10000,260,222.22,150000,100,16,143,72,1e+05
+"3",1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1
